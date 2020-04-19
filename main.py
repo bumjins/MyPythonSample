@@ -17,7 +17,6 @@
 # p = Programmer("Bumjin", 40)
 # p.introduce()
 # p.program("Rest Server");
-
 from random import *
 
 daylist = []
