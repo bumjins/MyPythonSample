@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "parse() is the opposite of format()"
+name = "parse"
+optional = false
+python-versions = "*"
+version = "1.15.0"
+
+[metadata]
+content-hash = "79e1a52e767fb154c9dc6b5b95ce63a539b95ee5567441e5d858fffea82e7d3a"
+python-versions = "^3.7"
+
+[metadata.hashes]
+parse = ["a6d4e2c2f1fbde6717d28084a191a052950f758c0cbd83805357e6575c2b95c0"]
